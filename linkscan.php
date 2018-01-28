@@ -49,7 +49,7 @@
  *
  * PHP v7+
  *
- * @author Matthew Towles <matthew.d.towles.ctr@mail.mil>
+ * @author Matthew Towles
  * @version 0.0.0
  */
 
